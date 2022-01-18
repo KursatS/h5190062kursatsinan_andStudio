@@ -2,31 +2,31 @@
   {
     "id": "1",
     "title": "Hayat Güzeldir / La vita è bella",
-    "date": "20 Aralık 1997"
+    "body": "20 Aralık 1997"
   },
   {
     "id": "2",
     "title": "Forrest Gump",
-    "date": "23 Haziran 1994"
+    "body": "23 Haziran 1994"
   },
   {
     "id": "3",
     "title": "Baba / The Godfather",
-    "date": "15 Mart 1972"
+    "body": "15 Mart 1972"
   },
   {
     "id": "4",
     "title": "Yeşil Yol / The Green Mile",
-    "date": "17 Mart 1999"
+    "body": "17 Mart 1999"
   },
   {
     "id": "5",
     "title": "Sıkı Dostlar / Goodfellas",
-    "date": "9 Eylül 1990"
+    "body": "9 Eylül 1990"
   },
   {
     "id": "6",
     "title": "Ucuz Roman / Pulp Fiction",
-    "desc": "14 Ekim 1994"
+    "body": "14 Ekim 1994"
   }
 ]
