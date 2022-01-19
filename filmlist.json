@@ -3,60 +3,70 @@
     "filmId": "1",
     "id": "1",
     "title": "Hayat Güzeldir / La vita è bella",
-    "date": "20 Aralık 1997"
+    "date": "20 Aralık 1997",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/tr/thumb/b/b4/Life_Is_Beautiful_film.jpg/220px-Life_Is_Beautiful_film.jpg"
   },
   {
     "filmId": "1",
     "id": "2",
     "title": "Forrest Gump",
-    "date": "23 Haziran 1994"
+    "date": "23 Haziran 1994",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/tr/thumb/b/bb/Forrest_Gump_%28film%2C_1994%29.jpg/220px-Forrest_Gump_%28film%2C_1994%29.jpg"
   },
   {
     "filmId": "1",
     "id": "3",
     "title": "Baba / The Godfather",
-    "date": "15 Mart 1972"
+    "date": "15 Mart 1972",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/tr/thumb/7/7c/1972_yapımı_Baba_film_afişi.jpg/220px-1972_yapımı_Baba_film_afişi.jpg"
   },
   {
     "filmId": "1",
     "id": "4",
     "title": "Yeşil Yol / The Green Mile",
-    "date": "17 Mart 1999"
+    "date": "17 Mart 1999",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/tr/thumb/3/3b/YesilYol.jpg/220px-YesilYol.jpg"
   },
   {
     "filmId": "1",
     "id": "5",
     "title": "Sıkı Dostlar / Goodfellas",
-    "date": "9 Eylül 1990"
+    "date": "9 Eylül 1990",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/tr/thumb/7/7b/Goodfellas.jpg/220px-Goodfellas.jpg"
   },
   {
     "filmId": "1",
     "id": "6",
     "title": "Ucuz Roman / Pulp Fiction",
-    "date": "14 Ekim 1994"
+    "date": "14 Ekim 1994",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/tr/thumb/f/fa/Pulp_Fiction_%28film%2C_1994%29.jpg/220px-Pulp_Fiction_%28film%2C_1994%29.jpg"
   },
     {
     "filmId": "1",
     "id": "7",
     "title": "Yeşil Rehber / Green Book",
-    "date": "11 Eylül 2018"
+    "date": "11 Eylül 2018",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/tr/thumb/5/5b/Green_Book_%282018_poster%29.png/220px-Green_Book_%282018_poster%29.png"
   },
     {
     "filmId": "1",
     "id": "8",
     "title": "Başlangıç / Inception",
-    "date": "8 Temmuz 2010"
+    "date": "8 Temmuz 2010",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/tr/thumb/9/94/Başlangıç.jpg/220px-Başlangıç.jpg"
   },
     {
     "filmId": "1",
     "id": "9",
     "title": "Dövüş Kulübü / Fight Club",
-    "date": "10 Aralık 1999"
+    "date": "10 Aralık 1999",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/tr/thumb/a/ab/Dövüş_Kulübü_film_afişi.jpg/220px-Dövüş_Kulübü_film_afişi.jpg"
   },
     {
     "filmId": "1",
     "id": "10",
     "title": "Cesur Yürek / Braveheart",
-    "date": "22 Eylül 1995"
+    "date": "22 Eylül 1995",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/tr/thumb/e/e6/Braveheart.jpg/220px-Braveheart.jpg"
   }
 ]
